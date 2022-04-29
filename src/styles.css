@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: row;
+}
+.componentNav {
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 100%;
+  margin-right: 50px;
+}
+button:hover {
+  background-color: green;
+}
